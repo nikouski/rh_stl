@@ -1,2 +1,2 @@
 # rh_stl
-rh
+3d model of the "radiohead" RFID scanner system 
